@@ -36,7 +36,7 @@
 * [Kanban](https://git.sr.ht/~jackmordaunt/kanban)
 * [Frost](https://git.sr.ht/~f4814n/frost), Wannabe matrix client
 * [Iconx](https://git.sr.ht/~pierrec/giox/tree/main/item/cmd/iconx), Browser for Material icons
-* [sjqm](https://github.com/Aquarian-Age/sjqm), Chinese astrology calendar
+* [sjqm](https://github.com/Aquarian-Age/ccal/tree/amrta/sjqm-ui-gioui), Chinese astrology calendar
 * [gdlv](https://github.com/aarzilli/gdlv), GUI front-end for the [Delve](https://github.com/go-delve/delve) debugger, supports Gio as a backend for [nucular](https://github.com/aarzilli/nucular).
 * [Diagram](https://github.com/egonelbre/expgio/tree/master/diagram), Diagram drawing
 * [Blocks](https://github.com/pierrec/games), Tetris clone
